@@ -1,0 +1,10 @@
+node_modules/
+*.swp
+*.swo
+*.orig
+*.old
+.DS_Store
+.idea/
+uploads/
+frontend_old/
+logs/
